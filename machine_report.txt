@@ -1,0 +1,19 @@
+MACHINE HEALTH FAILURE REPORT
+================================
+Report generated at: 2026-04-13 18:06:59 UTC
+
+Timeline
+--------
+- First warning alert:     2024-01-01 00:19:00
+- Failure threshold (<= 20.0) crossed: 2024-01-01 07:11:00
+- Predicted failure time:  2024-01-01 16:39:00
+
+Remaining Useful Life
+----------------------
+- Estimated remaining time: 0.00 hours
+- Average degradation rate: -6.315 health points per hour
+
+Diagnosis
+---------
+- Root cause (most likely): Degradation detected, but there is insufficient baseline/degraded data to clearly identify the root cause.
+- Recommended maintenance:  Inspect the machine for abnormal noise, temperature, and pressure behaviour; follow standard troubleshooting procedures.
