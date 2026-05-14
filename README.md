@@ -1,10 +1,14 @@
 # 🏭 Predictive Maintenance Control Center
+<img width="1920" height="1080" alt="Screenshot 2026-05-14 002328" src="https://github.com/user-attachments/assets/c0492505-e15c-4f87-bfa3-cd781de12c0b" />
+
 
 A real-time machine health monitoring system that analyzes multivariate sensor data to detect anomalies, predict equipment failures, and estimate Remaining Useful Life (RUL) — all surfaced through a live auto-refreshing Streamlit dashboard.
 
 ---
 
-## 🖥️ Dashboard Preview
+## 🖥️ Dashboard Preview<img width="1920" height="1080" alt="Screenshot 2026-05-14 002403" src="https://github.com/user-attachments/assets/302edcd1-266e-4f15-9c6f-f24cbcad5e95" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-14 002352" src="https://github.com/user-attachments/assets/e30992ba-d066-44ae-b14e-732ee48c68b8" />
+
 
 > Live dashboard running at `localhost:8502`
 
